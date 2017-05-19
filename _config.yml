@@ -2,10 +2,10 @@
 title:               Vikas Yadav
 tagline:             DL/RL enthusiast
 description:
-baseurl:            "/"
+baseurl:            #"/"
 url:                "https://vy007vikas.github.io"
 github:
-  url:               "https://vy007vikas.github.io/"
+  url:               "https://vy007vikas.github.io"
 author:
   name:              "Vikas Yadav"
   email:             "vikasyadav.iitr@gmail.com"
@@ -23,7 +23,7 @@ navigation:
   url: /contact
 
 paginate:            5
-disqus:              #"your-disqus"
+disqus:              "https://disqus.com/by/disqus_imCVlJSq3a/"
 
 # Build settings
 markdown:            kramdown
